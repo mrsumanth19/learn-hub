@@ -134,4 +134,11 @@ This project is licensed under the [MIT License](LICENSE)
 Feel free to fork this repo, submit issues, or open pull requests!
 Made with ❤️ by [Sumanth Vanapalli](https://github.com/mrsumanth19) , [Surekha Pamulapati](https://github.com/surekhapamulapati) , [Mallikharjuna Madamanchi](chowdharymallikarjun@gmail.com)
 
+## 👥 Contributors
+
+| Name                    | GitHub Profile |
+|-------------------------|----------------|
+| Sumanth Vanapalli       | [@mrsumanth19](https://github.com/mrsumanth19) |
+| Surekha Pamulapati      | [@surekhapamulapati](https://github.com/surekhapamulapati) |
+| Mallikharjuna Madamanchi| [@mallikharjuna007](https://github.com/mallikharjuna007) |
 
