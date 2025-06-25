@@ -125,6 +125,6 @@ This project is licensed under the [MIT License](LICENSE)
 ## 🙌 Contributing
 
 Feel free to fork this repo, submit issues, or open pull requests!
-Made with ❤️ by [Sumanth Vanapalli](https://github.com/mrsumanth19) , [Surekha Pamulapati](https://github.com/surekhapamulapati) , [Mallikharjuna Madamanchi](
+Made with ❤️ by [Sumanth Vanapalli](https://github.com/mrsumanth19) , [Surekha Pamulapati](https://github.com/surekhapamulapati) , [Mallikharjuna Madamanchi](chowdharymallikarjun@gmail.com)
 
 
