@@ -103,6 +103,9 @@ Frontend runs at: [http://localhost:5173](http://localhost:5173)
 ## 📸 Screenshots
 
 > Add screenshots here like Landing Page, Dashboard, Course List, etc.
+![Screenshot 2025-06-25 135439](https://github.com/user-attachments/assets/846806ec-3879-4d1b-a082-b6746d0ed486)
+![Screenshot 2025-06-25 135356](https://github.com/user-attachments/assets/6c379c01-ee04-483d-b403-0320b4e91f22)
+![Screenshot 2025-06-25 135318](https://github.com/user-attachments/assets/a14eb3f9-d4be-41ed-973d-be9859f938e2)
 
 ---
 
