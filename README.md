@@ -1,10 +1,3 @@
-Perfect! Since your GitHub repo is [**github.com/mrsumanth19/learn-hub**](https://github.com/mrsumanth19/learn-hub), here's a tailored `README.md` file ready to be pasted directly into that repository:
-
----
-
-### ✅ Final `README.md` for [`learn-hub`](https://github.com/mrsumanth19/learn-hub)
-
-```markdown
 # 📚 LearnHub – Online Learning Platform
 
 **LearnHub** is a full-stack online learning platform built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js). It provides a powerful interface for students to learn, teachers to create and manage courses, and admins to oversee platform activity.
